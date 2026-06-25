@@ -11,6 +11,6 @@ Isabel Fuller,
 Noah Blank,
 Sarah Doolittle,
 # Date created: June 25, 2026
-#-----------------------------------------------------------------------------------------------------------------------
-# _Note: This script requires Google Earth Engine and visualization purposes were laid out in ArcGIS Pro 3.6_
-#-----------------------------------------------------------------------------------------------------------------------
+
+#_Note: This script requires Google Earth Engine and visualization purposes were laid out in ArcGIS Pro 3.6_
+
