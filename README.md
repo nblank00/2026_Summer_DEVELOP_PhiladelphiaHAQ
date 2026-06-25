@@ -9,7 +9,7 @@ Arshi Mahajan,
 Ellen Wei,
 Isabel Fuller,
 Noah Blank,
-Sarah Doolittle,
+Sarah Doolittle
 # Date created: June 25, 2026
 
 #_Note: This script requires Google Earth Engine and visualization purposes were laid out in ArcGIS Pro 3.6_
