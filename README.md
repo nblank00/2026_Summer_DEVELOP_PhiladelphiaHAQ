@@ -10,5 +10,5 @@ Ellen Wei,
 Isabel Fuller,
 Noah Blank,
 Sarah Doolittle,
-# Date created: Oct. 15, 2020
+# Date created: June 25, 2026
 # Code Requirements: This script requires Google Earth Engine and visualization purposes were laid out in ArcGIS Pro 3.6
